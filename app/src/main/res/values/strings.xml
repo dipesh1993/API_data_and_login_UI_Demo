@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="home">Weather Report</string>
+    <string name="enter_username">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="login">Login</string>
+    <string name="click_here_to_register">Not a member? Sign up now</string>
+
+
+
+</resources>
